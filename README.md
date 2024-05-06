@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassmine</h1>
-<h3 align="center">A passionate software developer from Morocco</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 📫 How to reach me **yasmine.elmoudene2003@gmail.com**
 
